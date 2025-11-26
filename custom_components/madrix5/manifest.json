@@ -1,14 +1,14 @@
 {
   "domain": "madrix5",
-  "name": "MADRIX 5 Integration",
-  "version": "1.0.0",
+  "name": "MADRIX 5 Controller",
+  "version": "0.1.0",
+  "documentation": "https://github.com/SoFarSoGood86/madrix5",
   "requirements": [
-    "aiohttp",
-    "python-rtmidi",
-    "sacn"
+    "aiohttp"
   ],
   "codeowners": [
     "@SoFarSoGood86"
   ],
+  "config_flow": true,
   "iot_class": "local_push"
 }

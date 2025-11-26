@@ -1,0 +1,2 @@
+class HttpBackend:
+    pass

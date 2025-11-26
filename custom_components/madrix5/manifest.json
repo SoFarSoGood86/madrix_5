@@ -1,0 +1,14 @@
+{
+  "domain": "madrix5",
+  "name": "MADRIX 5 Integration",
+  "version": "1.0.0",
+  "requirements": [
+    "aiohttp",
+    "python-rtmidi",
+    "sacn"
+  ],
+  "codeowners": [
+    "@SoFarSoGood86"
+  ],
+  "iot_class": "local_push"
+}

@@ -1,3 +1,7 @@
+![60302610_10156531187624141_831535432628961280_n](https://github.com/user-attachments/assets/2ad91250-a212-489a-9017-4a9524e21764)
+
+
+
 # MADRIX 5 – Intégration Home Assistant (Avancée)
 
 Cette intégration fournit un squelette fonctionnel pour piloter MADRIX 5 depuis Home Assistant.

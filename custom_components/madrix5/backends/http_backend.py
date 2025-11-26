@@ -1,2 +1,1 @@
-class HttpBackend:
-    pass
+class HttpBackend: pass

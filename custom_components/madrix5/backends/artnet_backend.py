@@ -1,2 +1,1 @@
-class ArtNetBackend:
-    pass
+class ArtNetBackend: pass

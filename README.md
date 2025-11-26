@@ -75,9 +75,3 @@ qui traduit les requêtes vers le protocole natif de MADRIX (Art-Net, sACN, MIDI
 - Les fichiers se trouvent dans `custom_components/madrix5/`
 - Pour ajouter un backend : implémentez `MadrixAPI` dans `api.py` (méthodes `send_command` et `get_status`).
 - Tests recommandés : créer un simple mock HTTP server renvoyant des états pour `GET /api/status`.
-
-## Icône
-Le dépôt contient `icon.png` (logo MADRIX placeholder). Remplacez-le par votre logo (transparent PNG recommandé).
-
-## Licence
-MIT — adapte selon ton choix.

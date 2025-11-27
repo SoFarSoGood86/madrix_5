@@ -3,5 +3,6 @@
   "domains": [
     "madrix5"
   ],
-  "iot_class": "local_push"
+  "iot_class": "local_push",
+  "icon": "icon.png"
 }
